@@ -1,0 +1,54 @@
+EventId,EventTemplate,Occurrences
+7a21837c,no such file,32
+33b377c1,error previous declaration here,24
+183d750b,compile failed using,44
+45b08e93,error declaration of c function conflicts with,24
+b7ffbc18,mv cannot stat no such file or directory,58
+6aa7cf7f,error gnu compilers before are not supported anymore,11
+603da49d,tput no value for term and no t specified,384
+22677d7b,<*> cannot <*> no such file or directory,551
+e11185b6,fail,44
+102dc0bd,error unsupported toolchain,7
+a1fbcffe,sed can t read temp no such file or directory,40
+a7683d87,ldppc cannot find lvxsnmp,6
+ce780218,sed can t read no such file or directory,3
+25eb07cc,bad request plan bad request failed to process data,3
+05523de6,jq error at stdin null null has no keys,11
+d211f137,cp cannot stat too many levels of symbolic links,3
+532dced9,error no repo found,3
+cb6e5338,make cleartool command not found,10
+f62e3dda,exception creating new tools metrics record,6
+3be027f4,content n next headers server nginx date <*> oct gmt content type application json content length connection keep alive keep alive raw url encoding utf history reason bad request cookies elapsed request connection,9
+9ea0ee83,file line column aid reference not found ccmd x,22
+89a0372c,cat no such file or directory,30
+8df89a1c,error no match for in,6
+b05f67a2,file line column aid reference not found ccmd x slots,110
+e482fb28,error total count of warnings has increased when compared,1
+7877aa3a,calledprocesserror command returned non zero exit status,6
+45a88127,syntaxerror invalid syntax,1
+13533e39,<*> no such file or directory,46
+fcd7c46b,line toolsetup command not found,9
+00c5663a,<*> linker input file unused because linking not done,12
+a41bdb34,brokenpipeerror broken pipe,1
+01b38667,cc error unrecognized command line option,30
+86e1b37f,error each undeclared identifier is reported only once,30
+54779b0a,no such file or directory,36
+d12ae762,error for each function it appears in,30
+ba4266a7,error previous <*> of was here,9
+48666911,error syntax error before token,30
+0f2326e1,error requested alignment is not a constant,30
+5d0af63f,error syntax error before,30
+bcd9c71d,error undeclared first use in this function,30
+7620fa3b,cannot open directory dhcp,5
+5c8120f6,error conflicting types for,9
+b3cdc725,cannot open directory <*> d,5
+9e894411,libexpat a file format not recognized,3
+3eb11a57,cccp invalid option,2
+80a32346,error failed to upload target to artifactory,1
+9893ee4c,error unable to download package from artifactory,3
+11d158b9,cp cannot copy cyclic symbolic link,12
+842c099a,ldppc section vma x dbc overlaps previous sections,1
+f3956ce8,bad request plan u u release sourcebranch id bad request failed to process data,1
+73d7f90b,cp not writing through dangling symlink,4
+ff3f70fd,error in running command,1
+9417ee70,ldppc bfd assertion fail,1

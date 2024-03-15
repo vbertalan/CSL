@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../ClusterLogs/ClusterLogs"
+		},
+		{
+			"name": "CSL",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
