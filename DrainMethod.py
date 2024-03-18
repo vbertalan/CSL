@@ -2,10 +2,7 @@
 
 """
 Author: Vithor Bertalan, vithor.bertalan@polymtl.ca
-Last updated version: March 21, 2023
-
-----------
-Do not begin by this file. Instead, go to CienaParser.py!
+Last updated version: March 18, 2024
 """
 
 from datetime import datetime
@@ -236,13 +233,15 @@ class LogParser:
             self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1) 
         self.df_log.to_csv(os.path.join(self.savePath, self.logName + '_structured.csv'), index=False)
 
-
         occ_dict = dict(self.df_log['EventTemplate'].value_counts())
         df_event = pd.DataFrame()
         df_event['EventTemplate'] = self.df_log['EventTemplate'].unique()
         df_event['EventId'] = df_event['EventTemplate'].map(lambda x: hashlib.md5(x.encode('utf-8')).hexdigest()[0:8])
         df_event['Occurrences'] = df_event['EventTemplate'].map(occ_dict)
         df_event.to_csv(os.path.join(self.savePath, self.logName + '_templates.csv'), index=False, columns=["EventId", "EventTemplate", "Occurrences"])
+
+        ## Returning the whole dataset of parsed variables
+        return self.df_log
 
     ## Auxiliary method to print the tree
     def printTree(self, node, dep):
@@ -280,12 +279,6 @@ class LogParser:
 
             ## Tokenization by splits
             logmessageL = self.preprocess(line['Content']).strip().split()
-            
-            ## NEW LINES
-            #import spacy
-            #nlp = spacy.load("en_core_web_sm")
-            #doc = nlp(self.preprocess(line['Content']))
-            #logmessageL = [token.text for token in doc]
 
             ## Tokenization using regex splits, if there are regexes
             # logmessageL = filter(lambda x: x != '', re.split('[\s=:,]', self.preprocess(line['Content'])))
@@ -308,7 +301,8 @@ class LogParser:
         if not os.path.exists(self.savePath):
             os.makedirs(self.savePath)
 
-        self.outputResult(logCluL)
+        ## Returning the whole dataset of parsed variables
+        return self.outputResult(logCluL)
 
         print('Parsing done. [Time taken: {!s}]'.format(datetime.now() - start_time))
 
