@@ -6,6 +6,10 @@
 		{
 			"name": "CSL",
 			"path": "."
+		},
+		{
+			"name": "LineTrackerAPI",
+			"path": "../../LineTrackerAPI/LineTrackerAPI"
 		}
 	],
 	"settings": {}
