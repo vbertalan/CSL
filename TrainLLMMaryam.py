@@ -2,11 +2,16 @@ import torch
 from tqdm import tqdm
 from torch.optim import AdamW
 from torch.utils.data import Dataset, DataLoader
-from transformers import GPT2Tokenizer, GPT2LMHeadModel
+#from transformers import GPT2Tokenizer, GPT2LMHeadModel
+from transformers import AutoTokenizer, AutoModelForCausalLM
+
+model_name = "EleutherAI/gpt-neo-1.3B"
 
 
 # Step 1: Load GPT-2 tokenizer and add custom log templates
-tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
+#tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+
 
 log_templates = [
     "Error encountered in module X",
@@ -38,7 +43,9 @@ tokenized_sequences = tokenizer(
 )
 
 # Step 3: Load pre-trained GPT-2 model
-model = GPT2LMHeadModel.from_pretrained("gpt2")
+#model = GPT2LMHeadModel.from_pretrained("gpt2")
+model = AutoModelForCausalLM.from_pretrained(model_name)
+
 
 # Resize the model's embeddings to include the new tokens
 model.resize_token_embeddings(len(tokenizer))
