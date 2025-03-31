@@ -8,6 +8,4 @@ fine_tuned_gpt2/model.safetensors.index.json
 fine_tuned_gpt2/model-00002-of-00002.safetensors
 fine_tuned_gpt2/model-00001-of-00002.safetensors
 fine_tuned_gpt2/config.json
-fine_tuned_gpt2/config.json
-fine_tuned_gpt2/tokenizer_config.json
-fine_tuned_gpt2/vocab.json
+fine_tuned_gpt2/added_tokens.json
