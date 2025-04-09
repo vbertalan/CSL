@@ -25,3 +25,17 @@ fine_tuned_intermediate/model.safetensors
 fine_tuned_intermediate/special_tokens_map.json
 fine_tuned_intermediate/tokenizer_config.json
 fine_tuned_intermediate/vocab.json
+models/final_model/config.json
+models/final_model/generation_config.json
+models/final_model/merges.txt
+models/final_model/model.safetensors
+models/final_model/tokenizer_config.json
+models/final_model/special_tokens_map.json
+models/final_model/vocab.json
+models/intermediate_model/config.json
+models/intermediate_model/generation_config.json
+models/intermediate_model/merges.txt
+models/intermediate_model/model.safetensors
+models/intermediate_model/special_tokens_map.json
+models/intermediate_model/tokenizer_config.json
+models/intermediate_model/vocab.json
