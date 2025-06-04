@@ -39,4 +39,5 @@ models/intermediate_model/model.safetensors
 models/intermediate_model/special_tokens_map.json
 models/intermediate_model/tokenizer_config.json
 models/intermediate_model/vocab.json
-split_batches_with_sequences/part_3.json
+split_batches_with_sequences/
+
