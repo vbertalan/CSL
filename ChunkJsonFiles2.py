@@ -69,7 +69,7 @@ with open(input_file, 'rb') as f_in:
                 file_count += 1
 
                 # Stop after saving part_500.json
-                if file_count == 11:
+                if file_count == 501:
                     break
 
 # Save any remaining batch
