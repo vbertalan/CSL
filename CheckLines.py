@@ -4,13 +4,13 @@ import json
 # Lista de event_ids a serem verificados
 event_ids_to_check = [
     "ff9f4bb3-6876-46ef-a858-d8f84c7b0414",
-    "4e3f21df-484d-48ce-950e-01319588822a",
-    "5e81a0ea-28f1-4999-b01f-0d613d27f59d",
-    "a5cf75d8-27fa-429e-9d26-fc1f04436ce8",
-    "8c604fdd-53c9-4c2a-9433-fb14e1ed6362",
-    "07452e03-006a-40d5-b998-522408afbc33",
-    "c5932d55-fc67-4100-901b-96a1582567d7",
-    "7e6153b1-3b2d-45e4-acf4-4a54c936ba3b",
+    # "4e3f21df-484d-48ce-950e-01319588822a",
+    # "5e81a0ea-28f1-4999-b01f-0d613d27f59d",
+    # "a5cf75d8-27fa-429e-9d26-fc1f04436ce8",
+    # "8c604fdd-53c9-4c2a-9433-fb14e1ed6362",
+    # "07452e03-006a-40d5-b998-522408afbc33",
+    # "c5932d55-fc67-4100-901b-96a1582567d7",
+    # "7e6153b1-3b2d-45e4-acf4-4a54c936ba3b",
     # Adicione outros event_ids conforme necessário
 ]
 
