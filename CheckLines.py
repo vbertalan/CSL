@@ -2,16 +2,23 @@ import os
 import json
 
 # Lista de event_ids a serem verificados
+# dup_ids_to_check = [
+#     "fe8849dc-cf9f-404d-87a2-c833e6610dbb",
+#     "7c013cc3-79cf-4db2-8c9a-75408b1b0ccf",
+#     "0d22dca7-6bf6-4fd5-80a0-584cd2d9b9ce",
+#     "9ba0835c-8344-48e3-967a-f46f0e02db8c",
+#     "e9971382-a7b8-4398-87c7-3fe8c15ab503",
+#     "883d13b7-f213-4fcb-9c22-51bea05766ca",
+#     "23df7ab8-1629-4edf-93b8-9134fbdb51d7",
+#     "e6b849ab-a2af-4df6-930f-784c15f5f42d",
+#     # Adicione outros event_ids conforme necessário
+# ]
+
 dup_ids_to_check = [
-    "fe8849dc-cf9f-404d-87a2-c833e6610dbb",
-    "7c013cc3-79cf-4db2-8c9a-75408b1b0ccf",
-    "0d22dca7-6bf6-4fd5-80a0-584cd2d9b9ce",
-    "9ba0835c-8344-48e3-967a-f46f0e02db8c",
-    "e9971382-a7b8-4398-87c7-3fe8c15ab503",
-    "883d13b7-f213-4fcb-9c22-51bea05766ca",
-    "23df7ab8-1629-4edf-93b8-9134fbdb51d7",
-    "e6b849ab-a2af-4df6-930f-784c15f5f42d",
-    # Adicione outros event_ids conforme necessário
+    "bbcc318d-4cba-49c7-8ed0-abff91955f11",
+    "13f70665-c23c-472a-8f41-da89f65d1421",
+    "29df63ce-15ee-471c-b876-4c3dd5c67fbb",
+#     # Adicione outros event_ids conforme necessário
 ]
 
 # Diretório onde os arquivos part_X.json estão localizados
