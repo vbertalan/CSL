@@ -15,9 +15,10 @@ import json
 # ]
 
 dup_ids_to_check = [
-    "bbcc318d-4cba-49c7-8ed0-abff91955f11",
-    "13f70665-c23c-472a-8f41-da89f65d1421",
-    "29df63ce-15ee-471c-b876-4c3dd5c67fbb",
+    "22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06",
+    "30850804-bd80-4617-bd35-cc8649d636da", 
+    "fe8849dc-cf9f-404d-87a2-c833e6610dbb",
+    "e9971382-a7b8-4398-87c7-3fe8c15ab503",
 #     # Adicione outros event_ids conforme necessário
 ]
 

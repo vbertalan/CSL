@@ -1,3 +1,506 @@
 Arquivos e número total de ocorrências dos dup_ids:
+Arquivos ordenados por número total de ocorrências:
 
-Nenhum arquivo atendeu à condição de ter pelo menos 2 ocorrências de cada dup_id.
+Arquivo: part_221.json - Total de ocorrências: 277
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 4 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 265 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_224.json - Total de ocorrências: 274
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 4 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 262 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_204.json - Total de ocorrências: 267
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 257 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_233.json - Total de ocorrências: 267
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 257 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_187.json - Total de ocorrências: 266
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 256 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_227.json - Total de ocorrências: 266
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 256 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_201.json - Total de ocorrências: 266
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 256 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_230.json - Total de ocorrências: 265
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 255 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_193.json - Total de ocorrências: 264
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 254 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_207.json - Total de ocorrências: 262
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 252 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_743.json - Total de ocorrências: 247
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 237 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_210.json - Total de ocorrências: 246
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 236 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_183.json - Total de ocorrências: 246
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 236 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_213.json - Total de ocorrências: 245
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 235 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_196.json - Total de ocorrências: 243
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 233 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_747.json - Total de ocorrências: 242
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 232 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_748.json - Total de ocorrências: 242
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 232 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_181.json - Total de ocorrências: 237
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 227 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_185.json - Total de ocorrências: 237
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 230 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 3 ocorrências
+
+Arquivo: part_217.json - Total de ocorrências: 237
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 4 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 225 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_789.json - Total de ocorrências: 236
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 226 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_763.json - Total de ocorrências: 236
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 226 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_794.json - Total de ocorrências: 236
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 226 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_770.json - Total de ocorrências: 236
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 226 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_801.json - Total de ocorrências: 236
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 226 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_785.json - Total de ocorrências: 236
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 226 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_771.json - Total de ocorrências: 236
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 226 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_786.json - Total de ocorrências: 236
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 226 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_793.json - Total de ocorrências: 236
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 226 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_802.json - Total de ocorrências: 236
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 226 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_778.json - Total de ocorrências: 236
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 226 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_755.json - Total de ocorrências: 236
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 226 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_805.json - Total de ocorrências: 235
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 225 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_750.json - Total de ocorrências: 235
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 225 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_797.json - Total de ocorrências: 234
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 224 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_762.json - Total de ocorrências: 234
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 226 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 4 ocorrências
+
+Arquivo: part_781.json - Total de ocorrências: 233
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 223 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_756.json - Total de ocorrências: 233
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 226 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 3 ocorrências
+
+Arquivo: part_766.json - Total de ocorrências: 233
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 223 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_774.json - Total de ocorrências: 229
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 219 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_216.json - Total de ocorrências: 229
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 219 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_758.json - Total de ocorrências: 229
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 219 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_773.json - Total de ocorrências: 229
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 219 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_782.json - Total de ocorrências: 228
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 218 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_791.json - Total de ocorrências: 227
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 217 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_799.json - Total de ocorrências: 227
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 217 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_765.json - Total de ocorrências: 226
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 216 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_777.json - Total de ocorrências: 226
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 216 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_780.json - Total de ocorrências: 226
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 216 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_804.json - Total de ocorrências: 224
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 214 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_768.json - Total de ocorrências: 224
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 214 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_796.json - Total de ocorrências: 223
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 213 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_788.json - Total de ocorrências: 223
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 213 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_807.json - Total de ocorrências: 222
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 212 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_211.json - Total de ocorrências: 221
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 4 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 209 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_214.json - Total de ocorrências: 221
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 4 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 209 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_197.json - Total de ocorrências: 221
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 4 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 209 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_745.json - Total de ocorrências: 220
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 210 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_754.json - Total de ocorrências: 206
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 196 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_184.json - Total de ocorrências: 205
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 198 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 3 ocorrências
+
+Arquivo: part_236.json - Total de ocorrências: 205
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 198 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 3 ocorrências
+
+Arquivo: part_208.json - Total de ocorrências: 204
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 4 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 192 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_234.json - Total de ocorrências: 189
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 4 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 177 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_205.json - Total de ocorrências: 189
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 4 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 177 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_190.json - Total de ocorrências: 189
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 179 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_194.json - Total de ocorrências: 185
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 4 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 173 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_188.json - Total de ocorrências: 185
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 4 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 173 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_228.json - Total de ocorrências: 185
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 4 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 173 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_202.json - Total de ocorrências: 185
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 4 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 173 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_753.json - Total de ocorrências: 184
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 174 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_231.json - Total de ocorrências: 182
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 4 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 173 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 3 ocorrências
+
+Arquivo: part_746.json - Total de ocorrências: 182
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 172 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_225.json - Total de ocorrências: 177
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 167 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_760.json - Total de ocorrências: 174
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 164 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_222.json - Total de ocorrências: 172
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 162 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_219.json - Total de ocorrências: 171
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 161 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_179.json - Total de ocorrências: 169
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 159 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_199.json - Total de ocorrências: 169
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 159 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_769.json - Total de ocorrências: 166
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 156 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_776.json - Total de ocorrências: 164
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 154 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_792.json - Total de ocorrências: 159
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 149 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_784.json - Total de ocorrências: 159
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 149 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_800.json - Total de ocorrências: 159
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 149 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 6 ocorrências
+
+Arquivo: part_191.json - Total de ocorrências: 149
+  22a3a1e6-ee13-4b9d-8d59-ff9c24b18b06: 2 ocorrências
+  30850804-bd80-4617-bd35-cc8649d636da: 2 ocorrências
+  fe8849dc-cf9f-404d-87a2-c833e6610dbb: 142 ocorrências
+  e9971382-a7b8-4398-87c7-3fe8c15ab503: 3 ocorrências
